@@ -1,6 +1,6 @@
 # 🍔 Landing Page de Comida Rápida
 
-Una página web simple, elegante y moderna para un restaurante de comida rápida.
+Una página web simple, elegante y moderna para un restaurante de comida rápida como práctica del curso **Desarrollo Web FrontEnd desde 0 con HTML, CSS Y JavaScript**.
 
 ![Vista previa](./preview.png)
 
@@ -8,7 +8,7 @@ Una página web simple, elegante y moderna para un restaurante de comida rápida
 
 - 📱 Diseño totalmente responsive
 - 🎨 Estilo moderno y atractivo
-- 🍟 Imágenes apetitosas de productos
+- 🍟 Imagen apetitosa de producto
 - 📍 Menú de navegación fácil de usar
 - 🔥 Efectos visuales suaves
 
